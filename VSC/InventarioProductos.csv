@@ -1,0 +1,10 @@
+idProducto,codigoBarras,descripcion,precioCompra,precioVenta,existencia,stock
+4,4,Teclado Genius,10000,15000,100,10
+5,5,Mouse Genius,5000,8000,80,15
+6,6,Parlante Sonic,12000,17000,50,8
+1,1,Notebook Lenovo,250000,350000,20,5
+3,3,Monitor Samsung,50000,80000,15,3
+2,2,Camara Logi,8000,11000,8,6
+9,9,Impresora HP,150000,200000,7,4
+10,10,Audifonos HyperX,18000,20000,50,20
+7,7,Microfono Sonic,19000,23000,11,9
